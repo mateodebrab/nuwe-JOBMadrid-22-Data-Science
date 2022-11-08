@@ -1,5 +1,6 @@
 # **Desafío JOBMadrid '22 | Data Science**
 # **_solución de Mathieu Debrabander_**
+### mathieudebrabander@hotmail.com
 ## tecnologías usadas:
 > - Python
 > - pandas
